@@ -1,0 +1,11 @@
+examples/prefork_echoserver.pl
+lib/POE/Class/Server/PreFork.pm
+lib/POE/Class/Server/PreFork/TCP.pm
+lib/POE/Class/Server/PreFork/UNIX.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml			Module meta-data (added by MakeMaker)
+README
+t/01_prefork.t
+t/02_prefork_tcp.t
+t/03_prefork_unix.t
